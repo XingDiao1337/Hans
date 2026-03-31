@@ -1,0 +1,21 @@
+
+
+@import url('https://raw.gitcode.com/xing_diao/Hans/raw/main/core.css');
+
+:root{
+     --background: url('https://raw.gitcode.com/xing_diao/Hans/raw/main/Hans.png');
+     --activetext-colour: white;
+ 
+     --primary1-colour: #00e5ff;
+     --primary2-colour: rgba(0,229,255,0.5);
+     --primary3-colour: rgba(0,80,120,0.6);
+     --primary4-colour: rgba(0,80,120,0.4);
+ 
+     --secondary1-colour: rgba(0,60,80,0.3);
+     --secondary2-colour: rgba(0,120,160,0.5);
+     --secondary3-colour: rgba(0,20,40,0.6);
+     --secondary4-colour: rgba(0,15,30,0.3);
+
+}
+  
+
